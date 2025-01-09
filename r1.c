@@ -1,6 +1,4 @@
-today exam
-
-
-fail
-git hub
-s23
+void main()
+{
+ sub=a-b;
+}
