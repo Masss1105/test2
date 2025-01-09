@@ -1,4 +1,4 @@
-today exam
-tomorrow exam
-subject detained
-fail
+void main()
+{
+ divide=a/b;
+}
